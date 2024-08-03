@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 
 	// ponteiros são úteis para economizar memória
-	// por exemplo, quando se trabalha com muitos valores, ao invés de copiar um valor com frequência para outras variáveis, é possível referenciar o valor dessa variável em outras, poupando espaço de memória
+	// quando se trabalha com muitos valores, ao invés de copiar um valor com frequência para outras variáveis, é possível referenciar o valor dessa variável em outras, poupando espaço de memória
 
 	x := 10
 
